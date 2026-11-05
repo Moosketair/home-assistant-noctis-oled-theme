@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<defs><linearGradient id="tile" x2=".8" y2="1"><stop stop-color="#14232F"/><stop offset=".55" stop-color="#101A24"/><stop offset="1" stop-color="#0C131B"/></linearGradient><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1118"/><stop offset="1" stop-color="#070A0E"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<g font-family="Arial,sans-serif" fill="#E1E8EE">
+<text x="44" y="64" font-size="33" font-weight="bold">NOCTIS OLED</text><text x="44" y="91" font-size="17" fill="#A4B2BF">Dark Slate · Home Assistant theme · design illustration</text>
+<g stroke="#425463" stroke-opacity=".5" stroke-width="1">
+<rect x="30" y="124" width="255" height="168" rx="15" fill="url(#tile)"/><rect x="295" y="124" width="170" height="168" rx="15" fill="url(#tile)"/><rect x="475" y="124" width="355" height="168" rx="15" fill="url(#tile)"/><rect x="840" y="124" width="410" height="80" rx="15" fill="url(#tile)"/><rect x="840" y="214" width="410" height="78" rx="15" fill="url(#tile)"/>
+<rect x="30" y="302" width="125" height="125" rx="15" fill="#1B1B1A"/><rect x="165" y="302" width="120" height="125" rx="15" fill="url(#tile)"/><rect x="295" y="302" width="170" height="125" rx="15" fill="url(#tile)"/><rect x="475" y="302" width="355" height="125" rx="15" fill="url(#tile)"/><rect x="840" y="302" width="200" height="125" rx="15" fill="url(#tile)"/><rect x="1050" y="302" width="200" height="125" rx="15" fill="url(#tile)"/>
+<rect x="30" y="437" width="125" height="125" rx="15" fill="url(#tile)"/><rect x="165" y="437" width="120" height="125" rx="15" fill="url(#tile)"/><rect x="295" y="437" width="170" height="125" rx="15" fill="url(#tile)"/><rect x="475" y="437" width="355" height="125" rx="15" fill="url(#tile)"/><rect x="840" y="437" width="410" height="125" rx="15" fill="url(#tile)"/>
+</g>
+<text x="53" y="166" font-size="19">Salon</text><text x="53" y="240" font-size="36">⌂</text><text x="318" y="166" font-size="21">19,6 °C</text><path d="M310 248 Q338 208 360 222 T410 210 T450 230" fill="none" stroke="#54AB76" stroke-width="3"/>
+<text x="497" y="168" font-size="23">Nuageux</text><text x="497" y="200" fill="#A4B2BF" font-size="16">Météo · Sainte-Pazanne</text><text x="497" y="262" font-size="29">11,5 °C</text>
+<text x="863" y="175" font-size="22">Chambre</text><text x="863" y="252" font-size="22">Bureau</text>
+<text x="53" y="362" font-size="22" fill="#D8973D">●</text><text x="53" y="390" font-size="17">alcôve</text><text x="188" y="390" font-size="17">Cuisine</text><text x="318" y="385" font-size="18">Salle à manger</text>
+<text x="497" y="350" font-size="22">Salon · Climatisation</text><text x="497" y="396" font-size="20" fill="#D8973D">Chauffage</text>
+<text x="866" y="363" font-size="20">Énergie</text><text x="866" y="404" font-size="27">647 W</text>
+<text x="1070" y="363" font-size="20">Humidité</text><text x="1070" y="404" font-size="27">55 %</text>
+<text x="50" y="505" font-size="18">Escalier</text><text x="180" y="505" font-size="18">Chambre</text><text x="320" y="505" font-size="18">Garage</text>
+<text x="497" y="480" font-size="22">Prévisions</text><text x="497" y="527" font-size="18" fill="#A4B2BF">Jeu.   Ven.   Sam.   Dim.   Lun.</text><text x="863" y="486" font-size="23">Raccourcis</text><text x="863" y="527" font-size="19">Clim Nuit                 Clim Jour</text>
+<text x="35" y="665" font-size="16" fill="#A4B2BF">Illustrative preview — not a live screenshot. Real cards depend on dashboard configuration.</text>
+</g></svg>
